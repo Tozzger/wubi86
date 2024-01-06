@@ -1,8 +1,8 @@
 # wubi86
 
-五笔86编码（目前包含扩展I区）
+五笔86编码（目前包含扩展D、I区）
 
-字形参考天珩字库及字统网G源。如有编码错误欢迎指出或者提PR。
+字形参考天珩字库及字统网。D区参考了[UnicodeCJK-WuBi](https://github.com/CNMan/UnicodeCJK-WuBi/tree/master)。如有编码错误欢迎指出或者提PR。
 
 ## 文件格式
 
